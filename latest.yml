@@ -1,4 +1,4 @@
-version: 3.1.14
+version: 3.1.13
 files:
   - url: https://raw.githubusercontent.com/qwermikk/bt-release/main/Btap%20Setup%203.1.13.exe
     sha512: jdvkT9AFsGDa32EhL7QrECYVo6umR8HUUs1AngxKwZVxGgJQZrCo1xazSNhCD0UTQ2fbUMSJsTBA/lyuZVLmCA==
@@ -6,7 +6,5 @@ files:
 path: https://raw.githubusercontent.com/qwermikk/bt-release/main/Btap%20Setup%203.1.13.exe
 sha512: jdvkT9AFsGDa32EhL7QrECYVo6umR8HUUs1AngxKwZVxGgJQZrCo1xazSNhCD0UTQ2fbUMSJsTBA/lyuZVLmCA==
 releaseNotes: |-
-  1.添加了 xxxx
-  2.更新了xxxx
-  3.修复了 xxxx
+  1. 添加版本更新
 releaseDate: '2020-10-05T09:59:38.995Z'
