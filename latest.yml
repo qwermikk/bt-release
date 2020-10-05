@@ -1,0 +1,8 @@
+version: 1.1.8
+files:
+  - url: electron-btap-setup-1.1.8.exe
+    sha512: 8hE10J24xgT7N9VmuBQMooN9zDcpj9s/Cx+IWAGh9ISnMVNupn8ZirczyrJUjDyVsF0aKcaOCmtA0eKPtI9Z4Q==
+    size: 39386572
+path: electron-btap-setup-1.1.8.exe
+sha512: 8hE10J24xgT7N9VmuBQMooN9zDcpj9s/Cx+IWAGh9ISnMVNupn8ZirczyrJUjDyVsF0aKcaOCmtA0eKPtI9Z4Q==
+releaseDate: '2020-10-05T02:59:13.712Z'
