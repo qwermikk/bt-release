@@ -1,12 +1,12 @@
-version: 3.1.15
+version: 3.1.13
 files:
-  - url: https://raw.githubusercontent.com/qwermikk/bt-release/main/Btap%20Setup%201.1.8.exe
-    sha512: 8hE10J24xgT7N9VmuBQMooN9zDcpj9s/Cx+IWAGh9ISnMVNupn8ZirczyrJUjDyVsF0aKcaOCmtA0eKPtI9Z4Q==
-    size: 39386572
-path: https://raw.githubusercontent.com/qwermikk/bt-release/main/Btap%20Setup%201.1.8.exe
-sha512: 8hE10J24xgT7N9VmuBQMooN9zDcpj9s/Cx+IWAGh9ISnMVNupn8ZirczyrJUjDyVsF0aKcaOCmtA0eKPtI9Z4Q==
+  - url: https://raw.githubusercontent.com/qwermikk/bt-release/main/Btap%20Setup%203.1.13.exe
+    sha512: jdvkT9AFsGDa32EhL7QrECYVo6umR8HUUs1AngxKwZVxGgJQZrCo1xazSNhCD0UTQ2fbUMSJsTBA/lyuZVLmCA==
+    size: 41638834
+path: https://raw.githubusercontent.com/qwermikk/bt-release/main/Btap%20Setup%203.1.13.exe
+sha512: jdvkT9AFsGDa32EhL7QrECYVo6umR8HUUs1AngxKwZVxGgJQZrCo1xazSNhCD0UTQ2fbUMSJsTBA/lyuZVLmCA==
 releaseNotes: |-
   1.添加了 xxxx
-  2.更新了 xxxx
+  2.更新了xxxx
   3.修复了 xxxx
-releaseDate: '2020-10-06T02:59:13.712Z'
+releaseDate: '2020-10-05T09:59:38.995Z'
