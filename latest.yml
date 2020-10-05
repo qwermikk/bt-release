@@ -5,4 +5,8 @@ files:
     size: 39386572
 path: electron-btap-setup-1.1.8.exe
 sha512: 8hE10J24xgT7N9VmuBQMooN9zDcpj9s/Cx+IWAGh9ISnMVNupn8ZirczyrJUjDyVsF0aKcaOCmtA0eKPtI9Z4Q==
+releaseNotes: |-
+  1.添加了 xxxx
+  2.更新了 xxxx
+  3.修复了 xxxx
 releaseDate: '2020-10-05T02:59:13.712Z'
