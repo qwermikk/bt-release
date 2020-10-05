@@ -5,9 +5,8 @@ productName: Btap
 appId: com.example.btap
 releaseInfo:
   releaseNotes: |-
-    1.添加了 xxxx
-    2.更新了xxxx
-    3.修复了 xxxx
+    1. 修复更新程序执行前未删除之前的文件缓存
+    2. 更改了部分UI提升用户体验
 publish:
   provider: generic
   url: 'https://qwermikk.github.io/bt-release/'
@@ -40,5 +39,5 @@ nsis:
   installerHeaderIcon: build/icons/icon.ico
   createDesktopShortcut: true
   createStartMenuShortcut: true
-  shortcutName: PEKKA
+  shortcutName: BtapRelease
 electronVersion: 3.1.13

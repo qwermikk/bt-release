@@ -1,10 +1,11 @@
-version: 3.1.13
+version: 3.1.14
 files:
-  - url: https://raw.githubusercontent.com/qwermikk/bt-release/main/Btap%20Setup%203.1.13.exe
-    sha512: jdvkT9AFsGDa32EhL7QrECYVo6umR8HUUs1AngxKwZVxGgJQZrCo1xazSNhCD0UTQ2fbUMSJsTBA/lyuZVLmCA==
-    size: 41638834
-path: https://raw.githubusercontent.com/qwermikk/bt-release/main/Btap%20Setup%203.1.13.exe
-sha512: jdvkT9AFsGDa32EhL7QrECYVo6umR8HUUs1AngxKwZVxGgJQZrCo1xazSNhCD0UTQ2fbUMSJsTBA/lyuZVLmCA==
+  - url: Btap Setup 3.1.14.exe
+    sha512: v0Xk4qJMYcxDZzM8IT1Hp+PCAsV/1vK+AzGp7XAy+UK6G/QlpxXsR7U1HSO0P7WiLokfKVAOKlXfG5jFgXkxQA==
+    size: 41639075
+path: Btap Setup 3.1.14.exe
+sha512: v0Xk4qJMYcxDZzM8IT1Hp+PCAsV/1vK+AzGp7XAy+UK6G/QlpxXsR7U1HSO0P7WiLokfKVAOKlXfG5jFgXkxQA==
 releaseNotes: |-
-  1. 添加版本更新
-releaseDate: '2020-10-05T09:59:38.995Z'
+  1. 修复更新程序执行前未删除之前的文件缓存
+  2. 更改了部分UI提升用户体验
+releaseDate: '2020-10-05T11:39:08.354Z'
