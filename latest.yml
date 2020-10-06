@@ -1,12 +1,14 @@
-version: 3.1.15
+version: 3.1.16
 files:
-  - url: Btap Setup 3.1.15.exe
-    sha512: 04vMcIHDgpiSQtiBm1u5b9NoYEkeS+Jra9wm2wUa1wu/v2Bkw3HGnkUD46wqu6rikPD0nyZYRZEeNI+xoXSWSw==
-    size: 41639045
-path: Btap Setup 3.1.15.exe
-sha512: 04vMcIHDgpiSQtiBm1u5b9NoYEkeS+Jra9wm2wUa1wu/v2Bkw3HGnkUD46wqu6rikPD0nyZYRZEeNI+xoXSWSw==
+  - url: Btap Setup 3.1.16.exe
+    sha512: 7VNYQtayC5oGtEawoDXvTVHlHt2dTmApODBDBGUWTQHnEPIFU+j5A6JRdyTDOBTeamkuPwXLu7dxf2hkgSfFAQ==
+    size: 41641520
+path: Btap Setup 3.1.16.exe
+sha512: 7VNYQtayC5oGtEawoDXvTVHlHt2dTmApODBDBGUWTQHnEPIFU+j5A6JRdyTDOBTeamkuPwXLu7dxf2hkgSfFAQ==
 releaseNotes: |-
-  1. 修复更新程序执行前未删除之前的文件缓存
-  2. 更改了部分UI提升用户体验
-  3. 修复软件更新弹框文本溢出
-releaseDate: '2020-10-06T02:16:30.881Z'
+  1. 优化部分UI显示
+  2. 增加设置页面的关于内容
+  3. 去除部分消息提示
+  4. 导航条增加用户授权信息的展示
+  5. 增加用户退出登陆
+releaseDate: '2020-10-06T05:55:45.217Z'

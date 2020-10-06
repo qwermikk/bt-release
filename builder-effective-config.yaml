@@ -5,9 +5,11 @@ productName: Btap
 appId: com.example.btap
 releaseInfo:
   releaseNotes: |-
-    1. 修复更新程序执行前未删除之前的文件缓存
-    2. 更改了部分UI提升用户体验
-    3. 修复软件更新弹框文本溢出
+    1. 优化部分UI显示
+    2. 增加设置页面的关于内容
+    3. 去除部分消息提示
+    4. 导航条增加用户授权信息的展示
+    5. 增加用户退出登陆
 publish:
   provider: generic
   url: 'https://qwermikk.github.io/bt-release/'
