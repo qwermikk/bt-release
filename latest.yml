@@ -1,11 +1,12 @@
-version: 3.1.14
+version: 3.1.15
 files:
-  - url: Btap Setup 3.1.14.exe
-    sha512: v0Xk4qJMYcxDZzM8IT1Hp+PCAsV/1vK+AzGp7XAy+UK6G/QlpxXsR7U1HSO0P7WiLokfKVAOKlXfG5jFgXkxQA==
-    size: 41639075
-path: Btap Setup 3.1.14.exe
-sha512: v0Xk4qJMYcxDZzM8IT1Hp+PCAsV/1vK+AzGp7XAy+UK6G/QlpxXsR7U1HSO0P7WiLokfKVAOKlXfG5jFgXkxQA==
+  - url: Btap Setup 3.1.15.exe
+    sha512: 04vMcIHDgpiSQtiBm1u5b9NoYEkeS+Jra9wm2wUa1wu/v2Bkw3HGnkUD46wqu6rikPD0nyZYRZEeNI+xoXSWSw==
+    size: 41639045
+path: Btap Setup 3.1.15.exe
+sha512: 04vMcIHDgpiSQtiBm1u5b9NoYEkeS+Jra9wm2wUa1wu/v2Bkw3HGnkUD46wqu6rikPD0nyZYRZEeNI+xoXSWSw==
 releaseNotes: |-
   1. 修复更新程序执行前未删除之前的文件缓存
   2. 更改了部分UI提升用户体验
-releaseDate: '2020-10-05T11:39:08.354Z'
+  3. 修复软件更新弹框文本溢出
+releaseDate: '2020-10-06T02:16:30.881Z'

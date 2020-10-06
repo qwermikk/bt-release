@@ -7,6 +7,7 @@ releaseInfo:
   releaseNotes: |-
     1. 修复更新程序执行前未删除之前的文件缓存
     2. 更改了部分UI提升用户体验
+    3. 修复软件更新弹框文本溢出
 publish:
   provider: generic
   url: 'https://qwermikk.github.io/bt-release/'
