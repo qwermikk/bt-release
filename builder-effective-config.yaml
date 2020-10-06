@@ -5,11 +5,8 @@ productName: Btap
 appId: com.example.btap
 releaseInfo:
   releaseNotes: |-
-    1. 优化部分UI显示
-    2. 增加设置页面的关于内容
-    3. 去除部分消息提示
-    4. 导航条增加用户授权信息的展示
-    5. 增加用户退出登陆
+    1. 修复内核升级造成自动登陆功能失效的问题
+    2. 修复Token失效用户未退出的问题
 publish:
   provider: generic
   url: 'https://qwermikk.github.io/bt-release/'

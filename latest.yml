@@ -1,14 +1,11 @@
-version: 3.1.16
+version: 3.1.17
 files:
-  - url: Btap Setup 3.1.16.exe
-    sha512: 7VNYQtayC5oGtEawoDXvTVHlHt2dTmApODBDBGUWTQHnEPIFU+j5A6JRdyTDOBTeamkuPwXLu7dxf2hkgSfFAQ==
-    size: 41641520
-path: Btap Setup 3.1.16.exe
-sha512: 7VNYQtayC5oGtEawoDXvTVHlHt2dTmApODBDBGUWTQHnEPIFU+j5A6JRdyTDOBTeamkuPwXLu7dxf2hkgSfFAQ==
+  - url: Btap Setup 3.1.17.exe
+    sha512: uDJ5FuwwUhH2WTQBRoZMJ3NnAb85T3v0Y1FufOGx9ZchIMjIS8buozfZrpG3Fjehii2pCcVMS/OWrSF4GsNqVA==
+    size: 41641723
+path: Btap Setup 3.1.17.exe
+sha512: uDJ5FuwwUhH2WTQBRoZMJ3NnAb85T3v0Y1FufOGx9ZchIMjIS8buozfZrpG3Fjehii2pCcVMS/OWrSF4GsNqVA==
 releaseNotes: |-
-  1. 优化部分UI显示
-  2. 增加设置页面的关于内容
-  3. 去除部分消息提示
-  4. 导航条增加用户授权信息的展示
-  5. 增加用户退出登陆
-releaseDate: '2020-10-06T05:55:45.217Z'
+  1. 修复内核升级造成自动登陆功能失效的问题
+  2. 修复Token失效用户未退出的问题
+releaseDate: '2020-10-06T07:25:10.502Z'
