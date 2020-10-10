@@ -1,11 +1,11 @@
-version: 3.1.17
+version: 3.1.18
 files:
-  - url: Btap Setup 3.1.17.exe
-    sha512: uDJ5FuwwUhH2WTQBRoZMJ3NnAb85T3v0Y1FufOGx9ZchIMjIS8buozfZrpG3Fjehii2pCcVMS/OWrSF4GsNqVA==
-    size: 41641723
-path: Btap Setup 3.1.17.exe
-sha512: uDJ5FuwwUhH2WTQBRoZMJ3NnAb85T3v0Y1FufOGx9ZchIMjIS8buozfZrpG3Fjehii2pCcVMS/OWrSF4GsNqVA==
+  - url: Btap Setup 3.1.18.exe
+    sha512: 5BYkyYg+3uqLygZvfN5dhz0ER1vG+bnqL/gGdImUThwWcog/Z/ewQTn9gMmChELGk2lUmlK/PGCFKQcM/DA5wQ==
+    size: 41641913
+path: Btap Setup 3.1.18.exe
+sha512: 5BYkyYg+3uqLygZvfN5dhz0ER1vG+bnqL/gGdImUThwWcog/Z/ewQTn9gMmChELGk2lUmlK/PGCFKQcM/DA5wQ==
 releaseNotes: |-
-  1. 修复内核升级造成自动登陆功能失效的问题
-  2. 修复Token失效用户未退出的问题
-releaseDate: '2020-10-06T07:25:10.502Z'
+  1. 暂时性移除资源cookie，修复因cookie过期造成的连锁反应
+  2. 修复批量上传时单个宝塔上传失败造成后面盘口不能继续上传的问题
+releaseDate: '2020-10-10T02:28:56.873Z'
