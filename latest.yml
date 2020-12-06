@@ -1,11 +1,11 @@
-version: 3.1.18
+version: 3.1.19
 files:
-  - url: Btap Setup 3.1.18.exe
-    sha512: 5BYkyYg+3uqLygZvfN5dhz0ER1vG+bnqL/gGdImUThwWcog/Z/ewQTn9gMmChELGk2lUmlK/PGCFKQcM/DA5wQ==
-    size: 41641913
-path: Btap Setup 3.1.18.exe
-sha512: 5BYkyYg+3uqLygZvfN5dhz0ER1vG+bnqL/gGdImUThwWcog/Z/ewQTn9gMmChELGk2lUmlK/PGCFKQcM/DA5wQ==
+  - url: Btap Setup 3.1.19.exe
+    sha512: S40MrtVMGXONnNEGYvsVwkqmwg6OFOd73YJvPwcorKIh6sBp5W0j9y1eiwrEp+fXmtT2pP+SUTKVzfGlcOIrjQ==
+    size: 41645582
+path: Btap Setup 3.1.19.exe
+sha512: S40MrtVMGXONnNEGYvsVwkqmwg6OFOd73YJvPwcorKIh6sBp5W0j9y1eiwrEp+fXmtT2pP+SUTKVzfGlcOIrjQ==
 releaseNotes: |-
-  1. 暂时性移除资源cookie，修复因cookie过期造成的连锁反应
-  2. 修复批量上传时单个宝塔上传失败造成后面盘口不能继续上传的问题
-releaseDate: '2020-10-10T02:28:56.873Z'
+  1. 解决重新操作未处理进度更新问题
+  2. 增加表格内右键菜单功能
+releaseDate: '2020-12-06T08:56:33.561Z'

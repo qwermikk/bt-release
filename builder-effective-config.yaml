@@ -5,8 +5,8 @@ productName: Btap
 appId: com.example.btap
 releaseInfo:
   releaseNotes: |-
-    1. 暂时性移除资源cookie，修复因cookie过期造成的连锁反应
-    2. 修复批量上传时单个宝塔上传失败造成后面盘口不能继续上传的问题
+    1. 解决重新操作未处理进度更新问题
+    2. 增加表格内右键菜单功能
 publish:
   provider: generic
   url: 'https://qwermikk.github.io/bt-release/'
