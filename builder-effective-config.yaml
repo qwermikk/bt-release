@@ -4,7 +4,7 @@ directories:
 productName: Btap
 appId: com.example.btap
 releaseInfo:
-  releaseNotes: 1. 修复自动打包功能失效
+  releaseNotes: 1. 修复打包目录指向问题
 publish:
   provider: generic
   url: 'https://qwermikk.github.io/bt-release/'

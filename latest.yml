@@ -1,9 +1,9 @@
-version: 3.1.21
+version: 3.1.22
 files:
-  - url: Btap Setup 3.1.21.exe
-    sha512: ELWKgTGDEtrGdtlKj3xVRz7N5JrGQFNdHH4/BM4+MbQRTI7NDrj7QlSGxuGXGPXWSG6Y65t+YmF44YvT1m1CSA==
-    size: 42066321
-path: Btap Setup 3.1.21.exe
-sha512: ELWKgTGDEtrGdtlKj3xVRz7N5JrGQFNdHH4/BM4+MbQRTI7NDrj7QlSGxuGXGPXWSG6Y65t+YmF44YvT1m1CSA==
-releaseNotes: 1. 修复自动打包功能失效
-releaseDate: '2020-12-09T10:14:12.395Z'
+  - url: Btap Setup 3.1.22.exe
+    sha512: Q7UI9oXUBDqdyDU0sdGqkUP6HERNHYPdcWt+bp0Ax/qbw6SGxMMQtZCHrGXSfUby/9+FNsIwd9SeZ69BupKANw==
+    size: 42066657
+path: Btap Setup 3.1.22.exe
+sha512: Q7UI9oXUBDqdyDU0sdGqkUP6HERNHYPdcWt+bp0Ax/qbw6SGxMMQtZCHrGXSfUby/9+FNsIwd9SeZ69BupKANw==
+releaseNotes: 1. 修复打包目录指向问题
+releaseDate: '2020-12-09T10:39:35.441Z'
