@@ -1,9 +1,9 @@
-version: 3.1.20
+version: 3.1.21
 files:
-  - url: Btap Setup 3.1.20.exe
-    sha512: RYbzeM/09Yol7JF1vE8kry8abg1cVM4vvdQFF0MdXYbTVk7Yeag5vwLY9tVhogJc6nT1/TEDKpjvyI2Nz0XynQ==
-    size: 42066490
-path: Btap Setup 3.1.20.exe
-sha512: RYbzeM/09Yol7JF1vE8kry8abg1cVM4vvdQFF0MdXYbTVk7Yeag5vwLY9tVhogJc6nT1/TEDKpjvyI2Nz0XynQ==
-releaseNotes: 1. 增加pc、h5项目自动打包功能模块
-releaseDate: '2020-12-09T09:50:21.831Z'
+  - url: Btap Setup 3.1.21.exe
+    sha512: ELWKgTGDEtrGdtlKj3xVRz7N5JrGQFNdHH4/BM4+MbQRTI7NDrj7QlSGxuGXGPXWSG6Y65t+YmF44YvT1m1CSA==
+    size: 42066321
+path: Btap Setup 3.1.21.exe
+sha512: ELWKgTGDEtrGdtlKj3xVRz7N5JrGQFNdHH4/BM4+MbQRTI7NDrj7QlSGxuGXGPXWSG6Y65t+YmF44YvT1m1CSA==
+releaseNotes: 1. 修复自动打包功能失效
+releaseDate: '2020-12-09T10:14:12.395Z'
