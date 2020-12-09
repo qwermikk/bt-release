@@ -4,9 +4,7 @@ directories:
 productName: Btap
 appId: com.example.btap
 releaseInfo:
-  releaseNotes: |-
-    1. 解决重新操作未处理进度更新问题
-    2. 增加表格内右键菜单功能
+  releaseNotes: 1. 增加pc、h5项目自动打包功能模块
 publish:
   provider: generic
   url: 'https://qwermikk.github.io/bt-release/'

@@ -1,11 +1,9 @@
-version: 3.1.19
+version: 3.1.20
 files:
-  - url: Btap Setup 3.1.19.exe
-    sha512: S40MrtVMGXONnNEGYvsVwkqmwg6OFOd73YJvPwcorKIh6sBp5W0j9y1eiwrEp+fXmtT2pP+SUTKVzfGlcOIrjQ==
-    size: 41645582
-path: Btap Setup 3.1.19.exe
-sha512: S40MrtVMGXONnNEGYvsVwkqmwg6OFOd73YJvPwcorKIh6sBp5W0j9y1eiwrEp+fXmtT2pP+SUTKVzfGlcOIrjQ==
-releaseNotes: |-
-  1. 解决重新操作未处理进度更新问题
-  2. 增加表格内右键菜单功能
-releaseDate: '2020-12-06T08:56:33.561Z'
+  - url: Btap Setup 3.1.20.exe
+    sha512: RYbzeM/09Yol7JF1vE8kry8abg1cVM4vvdQFF0MdXYbTVk7Yeag5vwLY9tVhogJc6nT1/TEDKpjvyI2Nz0XynQ==
+    size: 42066490
+path: Btap Setup 3.1.20.exe
+sha512: RYbzeM/09Yol7JF1vE8kry8abg1cVM4vvdQFF0MdXYbTVk7Yeag5vwLY9tVhogJc6nT1/TEDKpjvyI2Nz0XynQ==
+releaseNotes: 1. 增加pc、h5项目自动打包功能模块
+releaseDate: '2020-12-09T09:50:21.831Z'
