@@ -1,9 +1,9 @@
-version: 3.1.22
+version: 3.1.23
 files:
-  - url: Btap Setup 3.1.22.exe
-    sha512: Q7UI9oXUBDqdyDU0sdGqkUP6HERNHYPdcWt+bp0Ax/qbw6SGxMMQtZCHrGXSfUby/9+FNsIwd9SeZ69BupKANw==
-    size: 42066657
-path: Btap Setup 3.1.22.exe
-sha512: Q7UI9oXUBDqdyDU0sdGqkUP6HERNHYPdcWt+bp0Ax/qbw6SGxMMQtZCHrGXSfUby/9+FNsIwd9SeZ69BupKANw==
-releaseNotes: 1. 修复打包目录指向问题
-releaseDate: '2020-12-09T10:39:35.441Z'
+  - url: Btap Setup 3.1.23.exe
+    sha512: nphEF5edpA1b92a9+uIbT2BkFAduoqLE7XO6xFtiJtH7Nq5b2GQ3gbZQQDvEhkTzb5WZxhEfCIMCIZ1D3aRmTA==
+    size: 42066497
+path: Btap Setup 3.1.23.exe
+sha512: nphEF5edpA1b92a9+uIbT2BkFAduoqLE7XO6xFtiJtH7Nq5b2GQ3gbZQQDvEhkTzb5WZxhEfCIMCIZ1D3aRmTA==
+releaseNotes: 1. 修复h5打包主题色错误
+releaseDate: '2020-12-11T11:36:17.328Z'

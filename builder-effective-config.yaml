@@ -4,7 +4,7 @@ directories:
 productName: Btap
 appId: com.example.btap
 releaseInfo:
-  releaseNotes: 1. 修复打包目录指向问题
+  releaseNotes: 1. 修复h5打包主题色错误
 publish:
   provider: generic
   url: 'https://qwermikk.github.io/bt-release/'
