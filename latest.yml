@@ -1,9 +1,9 @@
-version: 3.1.23
+version: 3.1.24
 files:
-  - url: Btap Setup 3.1.23.exe
-    sha512: nphEF5edpA1b92a9+uIbT2BkFAduoqLE7XO6xFtiJtH7Nq5b2GQ3gbZQQDvEhkTzb5WZxhEfCIMCIZ1D3aRmTA==
-    size: 42066497
-path: Btap Setup 3.1.23.exe
-sha512: nphEF5edpA1b92a9+uIbT2BkFAduoqLE7XO6xFtiJtH7Nq5b2GQ3gbZQQDvEhkTzb5WZxhEfCIMCIZ1D3aRmTA==
-releaseNotes: 1. 修复h5打包主题色错误
-releaseDate: '2020-12-11T11:36:17.328Z'
+  - url: Btap Setup 3.1.24.exe
+    sha512: sQTAMfPTxaoD/rba7GfkjA4GIMGNcoGCZq1EXc8RViBpMDxwsVFIeIyQbVJO/vumzBLyDzKroV/IovkCuQcY1g==
+    size: 42067159
+path: Btap Setup 3.1.24.exe
+sha512: sQTAMfPTxaoD/rba7GfkjA4GIMGNcoGCZq1EXc8RViBpMDxwsVFIeIyQbVJO/vumzBLyDzKroV/IovkCuQcY1g==
+releaseNotes: 1. 增加项目主题样式恢复功能
+releaseDate: '2021-01-14T13:22:11.890Z'
