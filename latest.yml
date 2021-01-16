@@ -1,9 +1,11 @@
-version: 3.1.24
+version: 3.1.25
 files:
-  - url: Btap Setup 3.1.24.exe
-    sha512: sQTAMfPTxaoD/rba7GfkjA4GIMGNcoGCZq1EXc8RViBpMDxwsVFIeIyQbVJO/vumzBLyDzKroV/IovkCuQcY1g==
-    size: 42067159
-path: Btap Setup 3.1.24.exe
-sha512: sQTAMfPTxaoD/rba7GfkjA4GIMGNcoGCZq1EXc8RViBpMDxwsVFIeIyQbVJO/vumzBLyDzKroV/IovkCuQcY1g==
-releaseNotes: 1. 增加项目主题样式恢复功能
-releaseDate: '2021-01-14T13:22:11.890Z'
+  - url: Btap Setup 3.1.25.exe
+    sha512: WPgg0K+JDV5jhIsXi9bJJjNRRT094bEF/8dhDueLEz9nt7hGyEP2G9Oec/Le4IkRY+ZsNRVfcXsqLpEPc5i3yQ==
+    size: 42067332
+path: Btap Setup 3.1.25.exe
+sha512: WPgg0K+JDV5jhIsXi9bJJjNRRT094bEF/8dhDueLEz9nt7hGyEP2G9Oec/Le4IkRY+ZsNRVfcXsqLpEPc5i3yQ==
+releaseNotes: |-
+  1. 增加娱乐国际版本构建
+  2. 增加娱乐国际版本主题更换
+releaseDate: '2021-01-16T05:40:02.278Z'
