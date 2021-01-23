@@ -1,11 +1,9 @@
-version: 3.1.25
+version: 3.1.26
 files:
-  - url: Btap Setup 3.1.25.exe
-    sha512: WPgg0K+JDV5jhIsXi9bJJjNRRT094bEF/8dhDueLEz9nt7hGyEP2G9Oec/Le4IkRY+ZsNRVfcXsqLpEPc5i3yQ==
-    size: 42067332
-path: Btap Setup 3.1.25.exe
-sha512: WPgg0K+JDV5jhIsXi9bJJjNRRT094bEF/8dhDueLEz9nt7hGyEP2G9Oec/Le4IkRY+ZsNRVfcXsqLpEPc5i3yQ==
-releaseNotes: |-
-  1. 增加娱乐国际版本构建
-  2. 增加娱乐国际版本主题更换
-releaseDate: '2021-01-16T05:40:02.278Z'
+  - url: Btap Setup 3.1.26.exe
+    sha512: 6k0cSnsWc8qlDifO2xohIA8TzAyIMCK6peTJDO9EK8vAWYQaIs8FL+Un4Kuh+Msmv/YqrhSw8LZzTisR9qmh7g==
+    size: 42067138
+path: Btap Setup 3.1.26.exe
+sha512: 6k0cSnsWc8qlDifO2xohIA8TzAyIMCK6peTJDO9EK8vAWYQaIs8FL+Un4Kuh+Msmv/YqrhSw8LZzTisR9qmh7g==
+releaseNotes: 1. 修复小概率打包错乱的问题
+releaseDate: '2021-01-23T11:20:26.632Z'

@@ -4,9 +4,7 @@ directories:
 productName: Btap
 appId: com.example.btap
 releaseInfo:
-  releaseNotes: |-
-    1. 增加娱乐国际版本构建
-    2. 增加娱乐国际版本主题更换
+  releaseNotes: 1. 修复小概率打包错乱的问题
 publish:
   provider: generic
   url: 'https://qwermikk.github.io/bt-release/'
