@@ -1,9 +1,9 @@
-version: 3.1.26
+version: 3.1.27
 files:
-  - url: Btap Setup 3.1.26.exe
-    sha512: 6k0cSnsWc8qlDifO2xohIA8TzAyIMCK6peTJDO9EK8vAWYQaIs8FL+Un4Kuh+Msmv/YqrhSw8LZzTisR9qmh7g==
-    size: 42067138
-path: Btap Setup 3.1.26.exe
-sha512: 6k0cSnsWc8qlDifO2xohIA8TzAyIMCK6peTJDO9EK8vAWYQaIs8FL+Un4Kuh+Msmv/YqrhSw8LZzTisR9qmh7g==
+  - url: Btap Setup 3.1.27.exe
+    sha512: TgeCZOEVdJ9Ihhj08HRLhU+GRXMnnJrwyiDbxPC60YX2hJw0iHDBt2wIk5G7mL0juemr/a5bUWgFxQBNCjYGCg==
+    size: 42067180
+path: Btap Setup 3.1.27.exe
+sha512: TgeCZOEVdJ9Ihhj08HRLhU+GRXMnnJrwyiDbxPC60YX2hJw0iHDBt2wIk5G7mL0juemr/a5bUWgFxQBNCjYGCg==
 releaseNotes: 1. 修复小概率打包错乱的问题
-releaseDate: '2021-01-23T11:20:26.632Z'
+releaseDate: '2021-01-23T11:40:32.067Z'
