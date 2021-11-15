@@ -4,7 +4,7 @@ directories:
 productName: Btap
 appId: com.example.btap
 releaseInfo:
-  releaseNotes: 1. 修复小概率打包错乱的问题
+  releaseNotes: 1. 兼容寶塔7.x版本自動登錄、上傳、解壓等功能
 publish:
   provider: generic
   url: 'https://qwermikk.github.io/bt-release/'

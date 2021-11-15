@@ -1,9 +1,9 @@
-version: 3.1.27
+version: 3.1.28
 files:
-  - url: Btap Setup 3.1.27.exe
-    sha512: TgeCZOEVdJ9Ihhj08HRLhU+GRXMnnJrwyiDbxPC60YX2hJw0iHDBt2wIk5G7mL0juemr/a5bUWgFxQBNCjYGCg==
-    size: 42067180
-path: Btap Setup 3.1.27.exe
-sha512: TgeCZOEVdJ9Ihhj08HRLhU+GRXMnnJrwyiDbxPC60YX2hJw0iHDBt2wIk5G7mL0juemr/a5bUWgFxQBNCjYGCg==
-releaseNotes: 1. 修复小概率打包错乱的问题
-releaseDate: '2021-01-23T11:40:32.067Z'
+  - url: Btap Setup 3.1.28.exe
+    sha512: 9sY1C3asQoz7wHFgPh74x8RrfwF/TRy96cLM5TmlLT2yDvjZynjqf4VIrJ5kBVTPk2d//6FkM0f2L8UWEWQEmQ==
+    size: 42067449
+path: Btap Setup 3.1.28.exe
+sha512: 9sY1C3asQoz7wHFgPh74x8RrfwF/TRy96cLM5TmlLT2yDvjZynjqf4VIrJ5kBVTPk2d//6FkM0f2L8UWEWQEmQ==
+releaseNotes: 1. 兼容寶塔7.x版本自動登錄、上傳、解壓等功能
+releaseDate: '2021-11-15T02:19:01.878Z'
